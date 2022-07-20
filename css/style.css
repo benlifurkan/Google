@@ -8,7 +8,7 @@ body{
     background-color: rgba(32,33,36,1);
     margin: 0px;
     padding: 0px;
-    /*position: relative;*/
+    position: relative;
 }
 
 .margin-left{
